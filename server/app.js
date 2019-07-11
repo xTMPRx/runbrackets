@@ -7,7 +7,7 @@
 // Set default node environment to development
 process.env.NODE_ENV = process.env.NODE_ENV || 'development';
 
-process.env.CHALLONGE_API_KEY = process.env.CHALLONGE_API_KEY || 'INSERT API KEY HERE';
+process.env.CHALLONGE_API_KEY = process.env.CHALLONGE_API_KEY || 'YpRbignwpbss0WLJ3bUGH3JQN3hzJ4Fkv5JeYlWC';
 
 var express = require('express');
 var mongoose = require('mongoose');
